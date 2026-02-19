@@ -3,8 +3,8 @@ name: deadpan-subversion
 description: Take serious, conventional, or preachy content and reframe it with deadpan delivery that subverts expectations while maintaining apparent sincerity.
 license: MIT
 metadata:
+  version: 1.0.3783
   author: sethmblack
-  version: 1.0.3782
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
